@@ -1,0 +1,26 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+jupyter = "*"
+"h2o" = "*"
+"h2o-pysparkling-2.2" = "*"
+"py4j" = "*"
+pandas = "*"
+plotnine = "*"
+scipy = "*"
+scikit-learn = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.5"

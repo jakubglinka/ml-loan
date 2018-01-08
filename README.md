@@ -1,2 +1,1 @@
-# ml-loan
-Loan Default Prediction
+# Loan defaults prediction using Sparkling Water
